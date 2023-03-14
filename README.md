@@ -1,8 +1,5 @@
 ### Hi there 👋
 My Diana Nafula
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on my HTML Portfolio
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on fun and exciting projects
