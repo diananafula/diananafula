@@ -7,3 +7,4 @@ My Diana Nafula
 - 💬 Ask me about Kenya
 - 📫 How to reach me: ...
 - ⚡ Fun fact:  I can sleep with my eyes open
+- 💻 Favorite Os: MacOs
